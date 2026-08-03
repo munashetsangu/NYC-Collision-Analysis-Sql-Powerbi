@@ -87,23 +87,23 @@ Interactive Power BI dashboard includes:
 
 **With dynamic filters for:** Borough, Year, and Severity.
 
-![Dashboard Overview](Images/Screenshot 2026-08-03 225614.png)
+![Dashboard Overview](Images/Screenshot%202026-08-03%20225614.png)
 
-![Trend by Year](Images/Screenshot 2026-08-03 224211.png)
+![Trend by Year](Images/Screenshot%202026-08-03%20224211.png)
 
-![Crashes by Borough](Images/Screenshot 2026-08-03 224304.png)
+![Crashes by Borough](Images/Screenshot%202026-08-03%20224304.png)
 
-![Time of Day/Day of week](Images/Screenshot 2026-08-03 224341.png)
+![Time of Day/Day of week](Images/Screenshot%202026-08-03%20224341.png)
 
-![Severity by Borough](Images/Screenshot 2026-08-03 224416.png)
+![Severity by Borough](Images/Screenshot%202026-08-03%20224416.png)
 
-![Crash Causes](Images/Screenshot 2026-08-03 224453.png)
+![Crash Causes](Images/Screenshot%202026-08-03%20224453.png)
 
-![Weather & Crashes](Images/Screenshot 2026-08-03 224830.png)
+![Weather & Crashes](Images/Screenshot%202026-08-03%20224830.png)
 
-![Collision Hotspots](Images/Screenshot 2026-08-03 225124.png)
+![Collision Hotspots](Images/Screenshot%202026-08-03%20225124.png)
 
-![Fatal Crash Zones](Images/Screenshot 2026-08-03 225350.png)
+![Fatal Crash Zones](Images/Screenshot%202026-08-03%20225350.png)
 
 
 ---
