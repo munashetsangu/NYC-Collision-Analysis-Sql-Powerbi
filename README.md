@@ -74,6 +74,19 @@ Interactive Power BI dashboard includes:
 
 **With dynamic filters for:** Borough, Year, and Severity.
 
+## Dashboard
+
+Interactive Power BI dashboard includes:
+
+* 📈 Collision Trends
+* 🗺 Geographic Heatmaps
+* 📊 Borough Comparison
+* 🚗 Contributing Factors
+* ⏰ Time-of-Day Analysis
+* ⚠ Severity Metrics
+
+**With dynamic filters for:** Borough, Year, and Severity.
+
 ![Dashboard Overview](Images/Screenshot 2026-08-03 225614.png)
 
 ![Trend by Year](Images/Screenshot 2026-08-03 224211.png)
