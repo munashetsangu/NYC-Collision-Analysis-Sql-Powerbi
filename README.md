@@ -74,14 +74,16 @@ Interactive Power BI dashboard includes:
 
 **With dynamic filters for:** Borough, Year, and Severity.
 
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/Screenshot 2026-08-03 225614.png)
+![Trend by Year](Images/Screenshot 2026-08-03 224211.png)
+![Crashes by Borough](Images/Screenshot 2026-08-03 224304.png)
+![Time of Day/Day of week](Images/Screenshot 2026-08-03 224341.png)
+![Severity by Borough](Images/Screenshot 2026-08-03 224416.png)
+![Crash Causes](Images/Screenshot 2026-08-03 224453.png)
+![Weather & Crashes](Images/Screenshot 2026-08-03 224830.png)
+![Collision Hotspots](Images/Screenshot 2026-08-03 225124.png)
+![Fatal Crash Zones](Images/Screenshot 2026-08-03 225350.png)
+
 
 ---
 
