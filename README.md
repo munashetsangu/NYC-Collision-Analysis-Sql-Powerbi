@@ -74,6 +74,15 @@ Interactive Power BI dashboard includes:
 
 **With dynamic filters for:** Borough, Year, and Severity.
 
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png)
+
 ---
 
 ## Key Findings
